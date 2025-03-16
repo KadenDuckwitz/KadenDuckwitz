@@ -1,3 +1,9 @@
+<hr>
+
+<img src="Banner.jpg">
+
+<hr>
+
 <h1>🖥️ About Me 🖥️</h1>
 
 <p>Hello! My name is <b>Kaden Duckwitz</b>. I'm currently going to school for an associates degree in Cybersecurity, and have years of experience developing software for both myself and others. I have experience with the following languages:</p>
