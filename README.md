@@ -27,7 +27,7 @@
   <li><a href="https://www.linkedin.com/in/kaden-duckwitz-ab38242b4/">LinkedIn</a></li>
   <li><a href="https://www.instagram.com/kadenduckwitz/">Instagram</a></li>
   <li><a href="https://www.facebook.com/profile.php?id=61554799842123">Facebook</a></li>
-  <li><a href="">X (Twitter)</a></li>
+  <li><a href="https://x.com/KadenDuckwitz">X (Twitter)</a></li>
 </ul>
 
 <p>For any serious inquiries, please contact me through email, website, or LinkedIn.</p>
