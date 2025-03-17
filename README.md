@@ -34,6 +34,6 @@
 
 <h1>💼 Freelance Work 💼</h1>
 
-<p>I offer freelance work for a variety of projects, and want to help bring your ideas to life. If interested, you can contact me using the information above or find me on <a href="">Fiverr</a>.</p>
+<p>I offer freelance work for a variety of projects, and want to help bring your ideas to life. If interested, you can contact me using the information above or find me on Fiverr at <b>@kduckwitz</b>.</p>
 
 <p>Prices will vary based on the scope and complexity of the project. I will do projects for free, however they must remain reasonably simple. For further information and details, contact me! I'm willing to answer any questions you have.</p>
