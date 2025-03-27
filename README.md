@@ -12,7 +12,6 @@
   <li><b>Java</b></li>
   <li><b>C#</b></li>
   <li><b>JavaScript</b></li>
-  <li><b>C++</b></li>
 </ul>
 
 <p>In addition to this, I've also worked with <b>HTML and CSS</b> to build websites and projects, and have lots of experience working with others in a group setting on a project.</p>
