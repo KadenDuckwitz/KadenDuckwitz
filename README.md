@@ -18,7 +18,7 @@
 
 <h1>📞 Contact Information 📞</h1>
 
-<p>You can reach me through email at <a href="mailto:kadenduckwitz6@gmail.com">kadenduckwitz6@gmail.com</a>, or, if you're interested in me doing work for you, you can visit <a href="">my website</a> and submit a request for freelance work there.</p>
+<p>You can reach me through email at <a href="mailto:kadenduckwitz6@gmail.com">kadenduckwitz6@gmail.com</a>, or, if you're interested in me doing work for you, you can visit <a href="https://kadenduckwitz.com/">my website</a> and submit a request for freelance work there.</p>
 
 <p>Alternatively, you can find me on any of the following sites:</p>
 
